@@ -9,152 +9,152 @@ proxies:
     server: games.axis.co.id
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
   - name: 🔥 SUSHIROLL
     server: blog.sushiroll.co.id
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
   - name: 🔥 OPOK V1
     server: staging.games.axis.co.id
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
   - name: 🔥 OPOK V2
     server: www.axis.co.id
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
   - name: 🔥 WHATSAPP
     server: ovo.id
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
   - name: 🔥 YOUTUBE
     server: youtube.zendesk.com
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
   - name: 🔥 TIKTOK
     server: tiktok1.zendesk.com
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
   - name: 🔥 NETFLIX
     server: creativeservices.netflix.com
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
   - name: 🔥 SOSMED
     server: m.facebook.com
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
   - name: 🔥 APPS
     server: maps.google.com
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
 #***** PEMBATAS *****#
 
 #***** XL *****#
@@ -162,122 +162,122 @@ proxies:
     server: investor.fb.com
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
   - name: 🍃 OPOK
     server: chat.xl.co.id
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
   - name: 🍃 VIDEO
     server: quiz.vidio.com
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
   - name: 🍃 BIZ OPOK
     server: padlet.com
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
   - name: 🍃 FLEX
     server: ava.game.naver.com
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
   - name: 🍃 VISION
     server: api.visionplus.id
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
   - name: 🍃 OPRAMINI
     server: support-vpn-pro.opera.com
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
   - name: 🍃 EDUKASI
     server: support.udemy.com
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
 #***** PEMBATAS *****#
 
 #***** BYU *****#
@@ -285,77 +285,77 @@ proxies:
     server: space.byu.id
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
   - name: 💫 GGWP
     server: suporte.garena.com
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
   - name: 💫 WHATSAPP
     server: chat.whatsapp.com
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
   - name: 💫 YOUTUBE
     server: m.youtube.com
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
   - name: 💫 INSTAGRAM
     server: m.instagram.com
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
 #***** PEMBATAS*****#
 
 #***** TELKOMSEL*****#
@@ -363,77 +363,77 @@ proxies:
     server: 104.26.6.171
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
   - name: 🪭 RUANGGURU
     server: bimbel.ruangguru.com
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
   - name: 🪭 GAMESMAX V1
     server: link.duniagames.co.id
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
   - name: 🪭 GAMESMAX V2
     server: ir.huya.com
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
   - name: 🪭 OPOK
     server: loop.co.id
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
 ##***** PEMBATAS *****##
 
 #***** INDOSAT*****#
@@ -441,17 +441,17 @@ proxies:
     server: creativeservices.netflix.com
     port: 443
     type: vmess
-    uuid: e027b1b0-f044-11ef-a3a5-1239d0255272
+    uuid: 401de2f0-f05e-11ef-9142-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: sg3.socifiles.com
+    servername: us1.socifiles.com
     network: ws
     ws-opts:
       path: /vmws
       headers:
-        Host: sg3.socifiles.com
+        Host: us1.socifiles.com
 #***** PEMBATAS*****#
 
 proxy-groups:
